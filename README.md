@@ -1,0 +1,2 @@
+# -WordHuntPuzzle-
+Word hunts are one of the rather common word puzzles out there. The aim is to find words from a seemingly random letters spread out on a 2D matrix, with each cell on the matrix containing one letter. In this version of the word hunt, players will be able to start from any letter and follow any path by going one cell a time in vertical and horizontal directions. Diagonal movement is not allowed, and the words do not have to be in a straight line.
